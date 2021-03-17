@@ -249,9 +249,9 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 25------------------
 THIS IS THE MASTER BRANCH
-me
-What is your Favorite Color?
-This is interesting
+Me:
+What is your Favorite Color:
+This is interesting:
 
 
 
